@@ -1,0 +1,12 @@
+10
+11
+***********
+*MMMM*MMM**
+*MMM*MMMM**
+*MM*MMMMM**
+*M*MMMMMM**
+**MMMMMMM**
+***JJJJJJJ*
+*JJ**JJJJJ*
+*JJJ*******
+***********
