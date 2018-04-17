@@ -1,4 +1,4 @@
-# data-structures-class-projects
+# Data Structures Class Projects
 My programming assignments for CS210 Data Structures and Algorithms during the spring of 2016.
 
 ## Description of Projects
