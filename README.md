@@ -1,5 +1,5 @@
 # Data Structures Class Projects
-My programming assignments for CS210 Data Structures and Algorithms during the spring of 2016.
+My programming assignments for CS210 Data Structures and Algorithms during the spring of 2016 at Samford University.
 
 ## Description of Projects
 
